@@ -1,4 +1,4 @@
-program simflow
+program simplepf
 
 ! modified
 
@@ -112,4 +112,4 @@ do i=2,nx-1
 enddo
 11	  format(500f10.3)
  
-end program simflow
+end program simplepf
